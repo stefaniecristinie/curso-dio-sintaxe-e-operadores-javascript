@@ -1,0 +1,21 @@
+Operadores (variáveis e tipos):
+= --> Atribuição.
+
+- Aritimética:
+** (exponencial) = elevando o número ao número que vem depois desse operador;
+% (módulo) = retornar o valor do resto de uma divisão entre dois números;
+Incrementar = 0 --> 1;
+Decrementar = 0 --> -1.
+
+- Comparação:
+== --> Esse valor é igual a esse? --> comparação do nº 2 com uma String 2 - retorna verdadeira - Não faz checagem de tipo;
+=== --> comparar o valor e o tipo - mais utilizado;
+!= --> valor diferente do outro.
+
+- Lógica:
+&& = Se afirmação "e" afirmação forem verdadeiras --> executar determinada execução;
+|| = apenas 1 afirmação verdadeira;
+! = oposto do dado que estamos passando após ! --> Ex: ! seguido de um true, recebe um valor falso.
+
+- Condicional:
+Mais utilizado.
